@@ -1658,7 +1658,7 @@ input[type="checkbox"]:checked + label:after{
     font-size: 25px;
     border-radius: 10px;
     border-style: none;
-    background-color: #299926;
+    background-color: #2f2bff;
     transition: background 0.5s ease;
     
 }
